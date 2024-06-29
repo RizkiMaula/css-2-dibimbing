@@ -1,0 +1,30 @@
+* {
+  text-align: center;
+}
+
+.header {
+  font-size: 100px;
+  color: blue;
+}
+
+.p1 {
+  color: #d8265c;
+}
+
+.p2 {
+  color: #3d0a0aa4;
+}
+
+img {
+  border-radius: 50px;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+
+li {
+  padding: 10px;
+}

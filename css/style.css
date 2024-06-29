@@ -1,0 +1,43 @@
+:root {
+  --hitam: #ffff;
+  --merah: #f50000;
+}
+
+/* * {
+  border: 2px solid black;
+} */
+
+h1 {
+  font-size: 85px;
+  text-align: center;
+}
+
+.heading {
+  color: rgba(39, 221, 203, 0.93);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#heading1 {
+  color: #27ddbc;
+}
+
+input[type='text'] {
+  width: 200px;
+}
+
+input[type='tombol'] {
+  width: 100px;
+}
+
+p {
+  font-weight: 400;
+}
+
+.p2 {
+  font-weight: 800;
+  line-height: 30px;
+}
+
+ul {
+  list-style-type: square;
+}

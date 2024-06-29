@@ -1,0 +1,30 @@
+* {
+  text-align: center;
+}
+
+h1 {
+  font-size: 100px;
+  color: red;
+}
+
+.p1 {
+  color: #39abf2;
+}
+
+.p2 {
+  color: #4e4e4e;
+}
+
+img {
+  border-radius: 50px;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+
+li {
+  padding: 10px;
+}
